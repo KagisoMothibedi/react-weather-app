@@ -24,7 +24,7 @@ export default function Weather() {
       <p>
         This project was coded by <a href="shecodes.io">SheCodes</a> and is
         open-sourced on <a href="https://github.com/KagisoMothibedi"> GitHub</a>{" "}
-        and hosted on <a href=""> Netlify</a>
+        and hosted on <a href="google.com"> Netlify</a>
       </p>
     </div>
   );
